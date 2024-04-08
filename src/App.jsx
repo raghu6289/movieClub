@@ -3,7 +3,6 @@ import Movies from "./components/Movies";
 import NavBar from "./components/NavBar";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import WatchList from "./components/WatchList";
-import "./App.css";
 import Banner from "./components/Banner";
 
 function App() {
